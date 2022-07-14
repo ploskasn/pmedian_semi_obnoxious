@@ -7,7 +7,7 @@ This repository includes benchmark instances for the p-median problem with dista
 
 2. Ploskas, N. & Stergiou, K. (2022). Locating semi-obnoxious facilities under distance constraints. Annals of Mathematics & Artificial Intelligence (submitted)
 
-Please cite the following papers if you use the instances.
+Please cite the above papers if you use the instances.
 
 The repository includes the following instances in separate folders:
 1. "homogeneous_moreclients": instances where the number of clients is greater than or equal to the facilities
