@@ -11,7 +11,12 @@ Please cite the following papers if you use the instances.
 
 The repository includes the following instances in separate folders:
 1. "homogeneous_moreclients": instances where the number of clients is greater than or equal to the facilities
-2. "homogeneous_morefacilities": instances where the number of facilities is greater than or equal to the facilities
+2. "homogeneous_morefacilities": instances where the number of facilities is greater than the clients
 3. "heterogeneous_moreclients": instances where the number of clients is greater than or equal to the facilities
-2. "heterogeneous_morefacilities": instances where the number of facilities is greater than or equal to the facilities
+4. "heterogeneous_morefacilities": instances where the number of facilities is greater than the facilities
+5.
+6.
+
+The files have the following format:
+...
 
